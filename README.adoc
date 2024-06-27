@@ -52,3 +52,10 @@ NOTE: You are not limited or restricted by the steps above. You can choose to ei
 If you have a better idea as to how you can showcase your skills or if you have something prepared - feel free to use it. We respect your time and don't want you to spend your precious evenings/weekends working on this that's why we are sending this through on the day of the interview.
 
 Just think about what can help us understand how you work and what your strong sides are.
+
+
+=== Option 2
+==== Provide a GitHub repo with some of your sample code showcasing your skills at par with Option 1. Please provide an architectural example of such a design, showing:
+Cloud deployment/orchestration for a data pipeline
+ETL/ELT work associated with a deployment you were involved in
+Relevant software development, approach and experience
